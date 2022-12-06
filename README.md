@@ -39,7 +39,7 @@ python app.py
 
 <p>
     <a href="https://docs.cohesive.so/learn-cohesive/how-cohesive-works/cohesive-installation-using-cli" target="_blank">
-        <img src="https://twitter.com/CohesiveHQ/photo" alt="Deploy to Cohesive" />
+        <img src="https://github.com/collabnix/python-docker-chat/blob/master/cohesive_logo.png" alt="Deploy to Cohesive" />
     </a>
 </p>
 
