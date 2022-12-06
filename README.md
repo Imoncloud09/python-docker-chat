@@ -37,12 +37,8 @@ python app.py
 
 #### Deploy to Cohesive
 
-Click this icon to deploy the app to Cohesive
+[Click here](https://docs.cohesive.so/learn-cohesive/how-cohesive-works/cohesive-installation-using-cli) to deploy the app to Cohesive
 
-<p>
-    <a href="https://docs.cohesive.so/learn-cohesive/how-cohesive-works/cohesive-installation-using-cli" target="_blank">
-        <img src="https://github.com/collabnix/python-docker-chat/blob/master/cohesive_logo.png" alt="Deploy to Cohesive" />
-    </a>
-</p>
+
 
 
