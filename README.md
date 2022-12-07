@@ -12,10 +12,6 @@ Showcases how to impliment chat app in Python (Flask), Socket.IO and Redis. This
 
 ## How to run it locally?
 
-#### Copy `.env.sample` to create `.env`. And provide the values for environment variables
-
-    - REDIS_ENDPOINT_URI: Redis server URI
-    - REDIS_PASSWORD: Password to the server
 
 #### Run frontend
 
