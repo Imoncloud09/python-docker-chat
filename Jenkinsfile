@@ -8,7 +8,7 @@ pipeline {
         DOCKER_IMAGE = "halrshaldocker/your-image-name" // Replace with your image
         KUBERNETES_NAMESPACE = "default"               // Update for a specific namespace
         KUBE_CONFIG_CRED_ID = "k8s"                    // Jenkins credential ID for kubeconfig
-        DEPLOYMENT_NAME = "example-deployment"
+        DEPLOYMENT_NAME = "example"
     }
     stages {
         stage('Checkout Code') {
